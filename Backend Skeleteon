@@ -1,0 +1,7 @@
+mkdir backend
+cd backend
+mkdir app tests
+mkdir app/api app/core app/models app/schemas app/services
+touch app/main.py
+touch app/core/config.py
+touch requirements.txt
